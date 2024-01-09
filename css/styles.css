@@ -436,6 +436,7 @@ body {
 
 .footer__container {
 	display: flex;
+	align-items: baseline
 }
 
 .footer__column1 {
