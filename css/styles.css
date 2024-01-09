@@ -469,7 +469,6 @@ body {
 .socials-footer__list {
 	display: flex;
 	gap: 16px;
-	align-items: baseline
 }
 
 .socials-footer__item {}
